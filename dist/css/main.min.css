@@ -1,1 +1,49 @@
 /*# sourceMappingURL=main.min.css.map */
+.header-list__item {
+  color: #fff;
+
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 13.986px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.header-logo {
+  color: #fff;
+
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.hero-title {
+  color: #fff;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 30.041px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+}
+.hero-paragraf {
+  color: #fff;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 18.025px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+.hero-btn {
+  width: 282px;
+  height: 43px;
+  flex-shrink: 0;
+
+  fill: #ff4e50;
+}
